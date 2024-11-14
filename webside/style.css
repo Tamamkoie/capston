@@ -22,3 +22,7 @@ body {
   background-color: black;
   color: burlywood;
 }
+p {
+  letter-spacing: 1px;
+  text-align: justify;
+}
